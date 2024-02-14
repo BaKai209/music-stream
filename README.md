@@ -8,11 +8,6 @@
 in [Vue](http://vuejs.org/) on the client side and [Laravel](http://laravel.com/) on the server side. Targeting web
 developers, music stream embraces some of the more modern web technologies to do its job.
 
-
-## Development
-
-See the [Development Guide](https://docs.koel.dev/#local-development).
-
 ## Music Stream Player
 
 ![Music Stream Player screenshots](https://user-images.githubusercontent.com/8056274/126907318-f3e1e09d-556e-4696-8277-29fd5332aaa1.jpg)
